@@ -17,7 +17,7 @@ In this tutorial, we will:
 
 
 ## Architecture
-Our architecture consists of a MP3.2xlarge  EC2 instance. The VM is within a public subnet of our VPC in an AWS region. The ports 22 is open to allow SSH connection. Port 8888 is open for the connecting to the jupyter notebook.
+Our architecture consists of a P3.2xlarge  EC2 instance. The VM is within a public subnet of our VPC in an AWS region. The ports 22 is open to allow SSH connection. Port 8888 is open for the connecting to the jupyter notebook.
 
 We will install Jupyterlab in the EC2 instance and run the demo using the provided notebook.
 
